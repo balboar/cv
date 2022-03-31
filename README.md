@@ -38,11 +38,11 @@ Simulación de Smart Grid en el campus de la Universidad de León con TRNSYS<br>
 
 ## ⚙️ Proyectos personales
 
-**Aplicación móvil de seguimiento en vivo**<br>
-Desarrollo en Flutter de aplicación para movil para hacer un seguimiento de mi ubicación. <br>
+**Aplicación móvil de seguimiento en tiempo real**<br>
+Desarrollo en Flutter de aplicación para móvil para hacer un seguimiento en tiempo real de la ubicación del usuario. <br>
   - Desarrollo de servidor en Python y SQLite.
-  - Desarrollo de aplicación móvil para subir posiciones a servidor en Flutter.
-  - Desarrollo de aplicación móvil para ver posiciones en Flutter.
+  - Desarrollo de aplicación móvil en Flutter para subir ubicación a servidor.
+  - Desarrollo de aplicación móvil en Flutter para ver ubicaciones.
   - **_Tecnologías utilizadas_** Linux, SQLite, Flutter, Dart, Python.
 <br><br>
 
