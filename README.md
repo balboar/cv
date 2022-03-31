@@ -61,7 +61,7 @@ Desarrollo en Flutter de aplicación para android para realizar el control horar
 
 **_Español:_** Nativo<br>
 **_Gallego:_** Nativo<br>
-**_Inglés:_** Lectura: nivel avanzado. Hablado y escrito: nivel intermedio<br>
+**_Inglés:_** Lectura: nivel avanzado. Hablado y escrito: nivel intermedio
 <br><br>
 
 ## 🎓 Educación
