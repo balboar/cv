@@ -14,15 +14,15 @@ Puzzles anuales de programación <br>
 [AoC Oficial](https://adventofcode.com/)<br>
 
 **Aprendiendo Flutter y Dart**<br>
-Mejorando Dones, mi aplicación de seguimiento, para que sea mas fácil seguime 😊.<br>
+Mejorando Dones, mi aplicación de seguimiento, para que sea mas fácil seguirme 😊.<br>
 <br><br>
 
 ## 👨‍💻 Experiencia
 
 **Programador y consultor** en [INNEBO INGENIERIA](https://innebo.es/) _(Nov 2016 - Presente)_ <br>
-Desarrollador de software EPR<br>
+Desarrollador de software ERP<br>
 - Definición y adaptación del ERP a las especificaciones del cliente.
-- Puesta en marcha de nuevos clientes y formación.
+- Puesta en marcha de nuevos proyectos y formación de los usuarios.
 - Asistencia técnica y mantenimiento.
 - Integración con otras herramientas informáticas utilizadas por el cliente.
 - **_Tecnologías utilizadas_** Delphi, SQL, Firebird,UniGui, Windows Server.
