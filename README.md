@@ -39,7 +39,7 @@ Simulación de Smart Grid en el campus de la Universidad de León con TRNSYS<br>
 - Modelización de una Smart Grid mediante TRNSYS.
 <br><br>
 
-## ⚙️ Proyectos personales
+## 🔧 Proyectos personales
 
 **Aplicación móvil de seguimiento en tiempo real**<br>
 Desarrollo en Flutter de aplicación para móvil para hacer un seguimiento en tiempo real de la ubicación del usuario. <br>
