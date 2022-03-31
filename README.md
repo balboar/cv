@@ -15,6 +15,8 @@ Puzzles anuales de programación <br>
 
 **Aprendiendo Flutter y Dart**<br>
 Mejorando Dones, mi aplicación de seguimiento en tiempo real<br>
+
+**Mejorando mi nivel inglés 🇬🇧**<br>
 <br><br>
 
 ## 👨‍💻 Experiencia
