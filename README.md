@@ -16,7 +16,7 @@ Puzzles anuales de programación <br>
 **Aprendiendo Flutter y Dart**<br>
 Mejorando Dones, mi aplicación de seguimiento en tiempo real<br>
 
-**Mejorando mi nivel inglés 🇬🇧**<br>
+**Mejorando mi nivel de inglés 🇬🇧**<br>
 <br><br>
 
 ## 👨‍💻 Experiencia
@@ -28,7 +28,7 @@ Desarrollador de software ERP<br>
 - Puesta en marcha de nuevos proyectos y formación de los usuarios.
 - Asistencia técnica y mantenimiento.
 - Integración con otras herramientas informáticas utilizadas por el cliente.
-- **_Tecnologías utilizadas_** Delphi, SQL, Firebird, UniGui, Windows Server.
+- **_Tecnologías utilizadas_** Delphi, SQL, Firebird, UniGui, Git, Windows Server.
 <br><br>
 
 **Residencia de verano en grupo de investigación** [UNIVERSIDAD DE LEÓN](https://www.unileon.es/) _(Verano 2015)_<br>
