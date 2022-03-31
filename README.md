@@ -25,10 +25,11 @@ Mejorando Dones, mi aplicación de seguimiento en tiempo real.<br>
 Desarrollador de software ERP<br>
 - Consultoría para la definición de las especificaciones del cliente.
 - Adaptación del ERP a las especificaciones del cliente.
+- Elaboración de informes con Fast Report.
 - Puesta en marcha de nuevos proyectos y formación de los usuarios.
 - Asistencia técnica y mantenimiento.
 - Integración con otras herramientas informáticas utilizadas por el cliente.
-- **_Tecnologías utilizadas_** Delphi, SQL, Firebird, UniGui, Git, Windows Server.
+- **_Tecnologías utilizadas_** Delphi, SQL, Firebird, UniGui, Git, Windows Server, Fast Report.
 <br><br>
 
 **Residencia de verano en grupo de investigación** [UNIVERSIDAD DE LEÓN](https://www.unileon.es/) _(Verano 2015)_<br>
