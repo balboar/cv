@@ -75,5 +75,4 @@ Desarrollo en Flutter de aplicación para android para realizar el control horar
 ### Otros cursos
 
 - Energía solar térmica para producción de calor y electricidad
-- Generadores síncronos: cálculo y diseño
-- Motores asíncronos: cálculo y diseño
+- Generadores síncronos y asíncronos: cálculo y diseño
