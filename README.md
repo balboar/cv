@@ -14,7 +14,7 @@ Puzzles anuales de programación <br>
 [AoC Oficial](https://adventofcode.com/)<br>
 
 **Aprendiendo Flutter y Dart**<br>
-Mejorando Dones, mi aplicación de seguimiento, para que sea mas fácil seguirme 😊.<br>
+Mejorando Dones, mi aplicación de seguimiento, para que sea más fácil seguirme 😊.<br>
 <br><br>
 
 ## 👨‍💻 Experiencia
@@ -29,7 +29,7 @@ Desarrollador de software ERP<br>
 <br><br>
 
 **Residencia de verano en grupo de investigación** [UNIVERSIDAD DE LEÓN](https://www.unileon.es/) _(Verano 2015)_<br>
-Simulación de smartGrid con TRNSYS en el campus de la Universidad de León<br>
+Simulación de Smart Grid en el campus de la Universidad de León con TRNSYS<br>
 - Diseño de una instalación para ensayo de módulos fotovoltaicos.
 - Análisis de las curvas de demanda de una Smart Grid.
 - Modelización de una Smart Grid mediante TRNSYS.
