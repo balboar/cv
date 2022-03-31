@@ -28,7 +28,7 @@ Desarrollador de software ERP<br>
 - Puesta en marcha de nuevos proyectos y formación de los usuarios.
 - Asistencia técnica y mantenimiento.
 - Integración con otras herramientas informáticas utilizadas por el cliente.
-- **_Tecnologías utilizadas_** Delphi, SQL, Firebird,UniGui, Windows Server.
+- **_Tecnologías utilizadas_** Delphi, SQL, Firebird, UniGui, Windows Server.
 <br><br>
 
 **Residencia de verano en grupo de investigación** [UNIVERSIDAD DE LEÓN](https://www.unileon.es/) _(Verano 2015)_<br>
@@ -53,7 +53,7 @@ Desarrollo en Flutter de aplicación para android para realizar el control horar
   - Desarrollo de API REST con Delphi.
   - Desarrollo de aplicación móvil en Flutter.
   - Integración con ERP.
-  - **_Tecnologías utilizadas_** Delphi,API, REST, Flutter, Python
+  - **_Tecnologías utilizadas_** Delphi, API, REST, Flutter, Python
 <br><br>
 
 ## 🌍 Idiomas
@@ -74,6 +74,5 @@ Desarrollo en Flutter de aplicación para android para realizar el control horar
 ### Otros cursos
 
 - Energía solar térmica para producción de calor y electricidad
-- Generadores Síncronos: Cálculo y Diseño
-- Motores Asíncronos: Cálculo y Diseño
-- Las oportunidades de la Energía en el Mar
+- Generadores síncronos: cálculo y diseño
+- Motores asíncronos: cálculo y diseño
