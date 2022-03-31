@@ -10,7 +10,7 @@ _Ingeniero programador aprendiendo cosas nuevas_
 
 **Advent of Code 2022**<br>
 Puzzles anuales de programación <br>
-[Mis soluciones](https://github.com/balboar/AoC2022)<br>
+[Mis soluciones](https://github.com/balboar/aoc2021)<br>
 [AoC Oficial](https://adventofcode.com/)<br>
 
 **Aprendiendo Flutter y Dart**<br>
