@@ -21,7 +21,8 @@ Mejorando Dones, mi aplicación de seguimiento, para que sea más fácil seguirm
 
 **Programador y consultor** en [INNEBO INGENIERIA](https://innebo.es/) _(Nov 2016 - Presente)_ <br>
 Desarrollador de software ERP<br>
-- Definición y adaptación del ERP a las especificaciones del cliente.
+- Consultoría para la definición de las especificaciones del cliente.
+- Adaptación del ERP a las especificaciones del cliente.
 - Puesta en marcha de nuevos proyectos y formación de los usuarios.
 - Asistencia técnica y mantenimiento.
 - Integración con otras herramientas informáticas utilizadas por el cliente.
