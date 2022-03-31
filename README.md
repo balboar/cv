@@ -6,7 +6,7 @@ _Ingeniero programador aprendiendo cosas nuevas_
 
 [Email](mailto:rrlpro@tutanota.com) / [GitHub](https://github.com/balboar/) 
 
-## Que estoy haciendo
+## Qué estoy haciendo
 
 **Advent of Code 2022**<br>
 Puzzles anuales de programación <br>
