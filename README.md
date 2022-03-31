@@ -14,7 +14,7 @@ Puzzles anuales de programación <br>
 [AoC Oficial](https://adventofcode.com/)<br>
 
 **Aprendiendo Flutter y Dart**<br>
-Mejorando Dones, mi aplicación de seguimiento, para que sea más fácil seguirme 😊.<br>
+Mejorando Dones, mi aplicación de seguimiento en tiempo real<br>
 <br><br>
 
 ## 👨‍💻 Experiencia
