@@ -9,9 +9,8 @@ _Ingeniero programador aprendiendo cosas nuevas_
 ## ⏳ Qué estoy haciendo
 
 **Advent of Code 2022**<br>
-Puzzles anuales de programación <br>
-[Mis soluciones](https://github.com/balboar/aoc2021)<br>
-[AoC Oficial](https://adventofcode.com/)<br>
+Puzzles anuales de programación resolviendolos con Dart como lenguaje <br>
+[Soluciones](https://github.com/balboar/aoc2021)<br>
 
 **Aprendiendo Flutter y Dart con proyectos personales**<br>
 
