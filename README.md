@@ -13,8 +13,7 @@ Puzzles anuales de programación <br>
 [Mis soluciones](https://github.com/balboar/aoc2021)<br>
 [AoC Oficial](https://adventofcode.com/)<br>
 
-**Aprendiendo Flutter y Dart**<br>
-Desarrollando Dones, mi aplicación de seguimiento en tiempo real.<br>
+**Aprendiendo Flutter y Dart con proyectos personales**<br>
 
 **Mejorando mi nivel de inglés 🇬🇧**<br>
 <br><br>
@@ -47,6 +46,11 @@ Desarrollo en Flutter de aplicación para móvil para hacer un seguimiento en ti
   - Desarrollo de aplicación móvil en Flutter para subir ubicación a servidor.
   - Desarrollo de aplicación móvil en Flutter para ver ubicaciones.
   - **_Tecnologías utilizadas_** Linux, SQLite, Flutter, Dart, Python.
+<br><br>
+
+**Aplicación móvil de gestión de finanzas** [GitHub](https://github.com/balboar/moedeiro) <br>
+Desarrollo en Flutter de aplicación para móvil para registrar gastos e ingresos. <br>
+  - **_Tecnologías utilizadas_** SQLite, Flutter, Dart, Google Play Console.
 <br><br>
 
 **Aplicación móvil de fichaje y dietas**<br>
